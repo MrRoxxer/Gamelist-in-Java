@@ -1,5 +1,5 @@
 import React from 'react'
-import Modell from '../model/GameList'
+import Modell from "../model/GameList";
 
 class GruppeBearbeitenTag extends React.Component {
   constructor(props) {
@@ -15,8 +15,13 @@ class GruppeBearbeitenTag extends React.Component {
     this.setState({newName: gruppenName})
   }
 
+  /**
+   * Hier ist die Funktion zum Editieren der Gruppen
+   * @param {gruppe} gruppe - Benennt eine Gruppe um
+   * @param {event} event - vom User ausgelöstes Event
+   */
   gruppeUmbenennen(gruppe, event) {
-    if (event && event.key != "Enter") return
+    if (event && event.key !== "Enter") return
     Modell.gruppeUmbenennen(gruppe.name, this.state.newName)
     this.setState({isEditing: false})
   }
