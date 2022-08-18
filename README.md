@@ -1,4 +1,4 @@
-<h1>MMein eGamelist resultierte aus einer Shoppinglist</h1>
+<h1>Mein Gamelist resultierte aus einer Shoppinglist</h1>
 <h3>Dieses Projekt ist im Kurs mit Alfred Walther endstanden und wurde verfeinert durch mich</h3>
 
 Hier seht ihr eine abgeänderte Einkaufsliste in java Script, sie wurde im endeffekt zu einer Gamelist was diese man selbständig erweitern kann.
