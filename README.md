@@ -1,7 +1,7 @@
-<h1>Mein VereinsManager in Kotlin und Flutter</h1>
-<h3>Dieses Projekt ist seit beginn an dieser Umschulung mein Steckenpferd.</h3>
+<h1>MMein eGamelist resultierte aus einer Shoppinglist</h1>
+<h3>Dieses Projekt ist im Kurs mit Alfred Walther endstanden und wurde verfeinert durch mich</h3>
 
-Hier seht ihr eine abgeänderte Einkaufsliste in ava Script, sie wurde im endeffekt zu einer Gamelist was diese man selbständig erweitern kann.
+Hier seht ihr eine abgeänderte Einkaufsliste in java Script, sie wurde im endeffekt zu einer Gamelist was diese man selbständig erweitern kann.
 Diese ist per Android Smartphone abrufbar und kann dem endsprechend benutzt werden.
 
 Zu meiner Abschluss arbeit des Unternehmens <a href="syntax-institut.de">Syntax institut</a> finden sie <a href="https://github.com/MrRoxxer/TheFinalOne">Hier!</a>
