@@ -1,17 +1,8 @@
 <h1>Mein VereinsManager in Kotlin und Flutter</h1>
 <h3>Dieses Projekt ist seit beginn an dieser Umschulung mein Steckenpferd.</h3>
 
-Ich möchte Vereinen aus aller welt die Vereinsadministration so einfach wie möglich machen,
-sprich meine Todos hier sind:
-
-1. Eine Übersicht meiner Vereinsmitglieder so wie deren verwaltung/spaten
-2. Eine Einfache Administration mit verschiedenen Templates für die eigene Hompage
-3. Eine vereinfachte übersicht der Finanzen (einnahmen/Ausgaben)
-4. Sponsorenboard
-5. Eine (globale communication und Spaten communication) mit Push einstellungen
-6. News Reader über Api der verschiedenen Verbänden z.b. (fussball/HFV)
-7. Termin verwaltung für verein und für Spaten trainer/betreuer
-8. Darkmode
+Hier seht ihr eine abgeänderte Einkaufsliste in ava Script, sie wurde im endeffekt zu einer Gamelist was diese man selbständig erweitern kann.
+Diese ist per Android Smartphone abrufbar und kann dem endsprechend benutzt werden.
 
 Zu meiner Abschluss arbeit des Unternehmens <a href="syntax-institut.de">Syntax institut</a> finden sie <a href="https://github.com/MrRoxxer/TheFinalOne">Hier!</a>
 
@@ -22,7 +13,6 @@ dieses Projekt und weitere noch laufenden Projekte fertig zu stellen.
 Mein besonderer Dank Geht hier an <a href="https://github.com/artingo">Alfred Walther</a> und die <b>Tutoren</b>
 die meist mit Rat und Tat beiseite standen und auch mir unter die arme gegriffen haben einiges zu ermöglichen.
 
-Auch geht mein Dank an André Wagner der uns die Sprache "Kotlin" näher gebracht hat.
 
 
 <img src="./public/img/ich.jpg"><br>hier ein Foto zu dem der Hinter dem Ganze Wirrwar und Code Steckt</img>
